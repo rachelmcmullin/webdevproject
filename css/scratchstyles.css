@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color:rgb(187, 121, 205);
+    scroll-behavior: smooth;
+    font-size: 17px ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.mainheader{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 650;
+    text-decoration: underline;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.subheader{
+    font-size: 20px;
+    font-weight: 500;
+}
+a{
+    color: rgb(80, 0, 91);
+}
+a:visited{
+    color: rgb(94, 92, 95);
+}
+.resume{
+    font-weight: 650;
+    font-size: 35px;
+    margin: 0;
+}
+.mainlist{
+    font-size: 20px;
+    font-weight: 650;
+    position: relative; right: 90px;
+}
+.sublist{
+    font-size: 15px;
+    position: relative; right: 90px;
+}
+ul{
+    display: inline-block;
+    text-align: left;
+}
+.tour{
+    font-size: 30px;
+    font-weight: 500;
+}
+

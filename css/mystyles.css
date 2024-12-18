@@ -1,0 +1,15 @@
+body{
+    font-family: 'Helvetica Neue';
+}
+.site-heading-lower{
+    font-family: sans-serif;
+}
+.mb-3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#mainNav{
+    background-color: rgba(144, 117, 143, 0.827);
+}
